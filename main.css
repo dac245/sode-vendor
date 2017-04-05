@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo');
+
+body{
+	background-color: #bfd9ff;
+	font-family: 'Arimo', sans-serif;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#header{
+	border: 1px solid black;
+	padding: 10px;
+	text-align: center;
+	color: white;
+	background-color: #7e7ae8;
+	border-radius: 10px;
+	font-size: 50px;
+}
+
+#selected{
+	color: red;
+}
+
+#movePages{
+	border: 1px solid black;
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+}
+
+#cartStyle{
+	border: 1px solid black;
+	padding: 10px;
+	background-color: #7e7ae8;
+	color: white;
+	border-radius: 10px;
+	font-size: 35px;
+}
+
+.styleDiv{
+	border: 1px solid black;
+	padding: 10px;
+	background-color: #7e7ae8;
+	color: white;
+	border-radius: 10px;
+}
+
+.styleForm{
+	margin-right: 90%;
+}
+
+.imgEdit{
+	height: 200px;
+}
+
+nav{
+	font-size: 35px;
+	border: 1px solid black;
+	border-radius: 10px;
+	background-color: #7e7ae8;
+}
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	display: inline;
+	padding-right: 20px;
+	
+}
+
+a{
+	text-decoration: none;
+	color: #630000;
+}
+
+a:hover{
+	color: orange;
+}
